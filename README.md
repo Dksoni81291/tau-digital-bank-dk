@@ -1,4 +1,4 @@
-[![nightly build at 11pm](https://github.com/tau-github-actions-for-testing/tau-digital-bank/actions/workflows/nightly-build.yml/badge.svg)](https://github.com/tau-github-actions-for-testing/tau-digital-bank/actions/workflows/nightly-build.yml)
+[![nightly build at 11pm](https://github.com/Dksoni81291/tau-digital-bank-dk/actions/workflows/nightly-build.yml/badge.svg)](https://github.com/Dksoni81291/tau-digital-bank-dk/actions/workflows/nightly-build.yml)
 
 # Digital Bank
 
